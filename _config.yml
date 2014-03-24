@@ -12,10 +12,6 @@ title : Pocket Rocket
 tagline: Are you happy to see me?
 author :
   name : Pocket Rocket
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
