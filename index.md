@@ -11,17 +11,20 @@ Check out our menu!!
 Food
 -----
 
+![canada]({{ site.url }}/assets/canada.jpg)
 Canadian Pocket – Canadian bacon, Kraft cheese, seasoned Yukon Gold potatoes, and carrots stuffed in a whole-wheat bread pocket. Drizzled with Canadian maple syrup. $7
 
 
 ![bacon]({{ site.url }}/assets/bacon.jpg)
 American Pocket – Bacon, cheddar cheese, French fries, onions, and peppers stuffed in a sourdough pocket. Drizzled with spicy aioli. $7
 
+![mexico]({{ site.url }}/assets/mexico.jpg)
 Mexican Pocket – Carnitas, Monterey jack cheese, potatoes, peppers, and salsa fresca stuffed in a whole-wheat pocket. Drizzled with green salsa. $7
 
 Dessert
 -----
 
+![churros]({{ site.url }}/assets/churros.jpg)
 Churro Pocket
 
 Drinks
