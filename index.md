@@ -5,7 +5,7 @@ tagline: Happy to see us?
 ---
 ![Logo]({{ site.url }}/assets/logo.jpg)
 ---
-Check out our menu!
+Check out our menu!!
 ----
 
 Food
