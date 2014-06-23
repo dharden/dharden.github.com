@@ -1,0 +1,41 @@
+Terminal Fundamentals!
+
+UNIX: An Operating System For Old People
+
+Where am I?! Who am I?! What's going on?
+
+When you first open up the terminal, you might have no idea what's going on. It's okay! We'll get through this.
+
+Typically, you'll be dropped into your home directory, usually referred to as ~. Let's see where we are!
+
+MOVING COMMANDS:
+
+pwd (print working directory) - pwd will tell you what directory you're in.
+
+ls - ls is your best friend. It shows what is in a directory. Without any arguments, ls will display what's in the current directory.
+
+cd - changes directories!
+
+FILE AND DIRECTORY STUFF:
+
+touch - makes an empty file!
+
+cp - copies a file!
+
+mv - moves a file!
+
+rm - removes a file!
+
+mkdir - makes a directory!
+
+rmdir - removes a directory!
+
+TEXT STUFF:
+
+cat - dumps out the contents of a file
+
+less - dumps out the contents of a file... a little bit at a time.
+
+vi - nerd stuff
+
+
